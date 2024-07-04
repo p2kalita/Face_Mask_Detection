@@ -10,9 +10,8 @@
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Project Demo](#ProjectDemo)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -74,10 +73,8 @@ The deep learning model used for this project is a custom convolutional neural n
 ## Results
 The model achieved an accuracy of 96% on the test dataset. The performance may vary depending on the dataset and the quality of the images used for detection.
 
-<img width="1000"  src="https://github.com/p2kalita/Face_Mask_Detection/blob/main/Capture2.JPG">
+<img width="800"  src="https://github.com/p2kalita/Face_Mask_Detection/blob/main/Capture2.JPG">
 
-## ProjectDemo
-https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/094d1030-83f1-431c-a005-40c9af297668
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to enhance the functionality, feel free to open a pull request. Please make sure to follow the coding conventions and provide detailed information about the changes.
