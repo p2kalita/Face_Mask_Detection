@@ -16,10 +16,10 @@ def get_requirements(file_path:str)->List[str]:
         return requirements
 
 setup(
-    name='FaceMaskDetector',
+    name='Face_Mask_Detection',
     version='0.0.1',
-    author='Ankit Rajput',
-    author_email='rajputankit72106@gmail.com',
+    author='Partha Pratim Kalita',
+    author_email='youranalystpartha@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()  #automatically finds all the packages to include in the distribution based on the project structure.
 )
