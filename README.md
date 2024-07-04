@@ -83,7 +83,6 @@ https://github.com/ankitrajput77/FaceMaskDetection/assets/113281225/094d1030-83f
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to enhance the functionality, feel free to open a pull request. Please make sure to follow the coding conventions and provide detailed information about the changes.
 
-## License
-This project is licensed under the MIT License.
+
 
 
