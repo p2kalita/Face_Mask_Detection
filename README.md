@@ -35,7 +35,7 @@ To set up the Face Mask Detection project, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/ankitrajput77/FaceMaskDetection.git
+git clone https://github.com/p2kalita/Face_Mask_Detection.git
 ```
 2. Navigate to the project directory:
 ```
